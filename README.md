@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧑‍Author
 
-**Jhay**
+**Jude Eseka**
 
-- [Placeholder X (Twitter)](Your Twitter Profile)
-- [Placeholder GitHub](Your Github Profile)
+- [X](https://x.com/sirjhay3)
+- [GitHub](https://github.com/judeeseka)
